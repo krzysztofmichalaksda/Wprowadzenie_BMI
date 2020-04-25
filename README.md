@@ -7,6 +7,8 @@
 ## Pobranie programu
 W folderze z Twoimi projektami w terminalu (Intellij) bądź konsoli wykonaj
 >`git clone https://github.com/krzysztofmichalaksda/Wprowadzenie_BMI.git`
+Lub
+Kliknij zielony przycisk powyżej i wybierz Donwload *.zip
 
 ## Uruchomienie programu z poziomu Intellij
 - Otwórz projekt
